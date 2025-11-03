@@ -63,5 +63,6 @@ to discuss what you would like to change.
 Please make sure to update tests as appropriate.
 ## Disclaimer / License 
 <img src="Media/Disclaimer.png" width=620 height=620>
-<img src="Media/proton-image.png" width=50 height=50>
-
+<a href="mailto:legionslost@proton.me?subject=urltofile">
+  <img src="Media/proton-image.svg" alt="Send Email over UrltoFile" width=50 height=50>
+</a>
