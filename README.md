@@ -54,8 +54,5 @@ Pull requests are welcome. For major changes, please open an issue first
 to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-## License
-
-https://img.shields.io/badge/LegionLost
-
-[MIT]()
+## Disclaimer / License 
+<img src="Media/disclaimer.png" width=120 height=120>
