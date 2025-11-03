@@ -1,4 +1,4 @@
-# UrlToFile README
+## UrlToFile README
 
 <img src="Media/LLLogo.gif" width="110" height="110"> <img src="Media/ascii-art-text.png" width="600">
 
@@ -6,9 +6,16 @@ Right click Copy saved to a file useful if you have to create a file with alot o
 
 ## Installation ##
 
-Download latest release and extract to a folder on your pc.
+Download the latest release and extract to a folder on your pc.
 
-Require's Windows DOT NET V4.8 <img src="Media/logo_net.svg" width=20 height=20> Works on Windows 7 / 8 /10 / 11
+Require's Windows
+<a href="https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net481-offline-installer">
+  <img src="Media/logo_net.svg" width=20 height=20>
+</a>
+ V4.81 Works on Windows 7 / 8 /10 / 11
+
+
+Written in <img src="Media/logo_csharp.png" width=20 height=20> 
 
 Open a Window's Terminal / Windows Command Prompt
 
@@ -55,4 +62,4 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 ## Disclaimer / License 
-<img src="Media/disclaimer.png" width=120 height=120>
+<img src="Media/Disclaimer.png" width=120 height=120>
