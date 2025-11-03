@@ -56,5 +56,5 @@ echo "sorry issues with mp3 url creation try urltofile -h"
 ```
 
 Check you have downloaded the latest version if there are any issues <a href="mailto:legionslost@proton.me?subject=urltofile">legionslost@proton.me</a> 
-or you can  <a href="https://buymeacoffee.com/legionslost"> <img src="Media/bmc.webp"> <img src="Media/qr-code.png" width="100" height="100"></a>
+or you can support me via <a href="https://buymeacoffee.com/legionslost"> <img src="Media/bmc.webp" width=50 height=50> <img src="Media/qr-code.png" width="100" height="100"></a>
 
