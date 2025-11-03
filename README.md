@@ -55,14 +55,6 @@ echo "sorry issues with mp3 url creation try urltofile -h"
 
 ```
 
-## Contributing
+Check you have downloaded the latest version if there are any issues <a href="mailto:legionslost@proton.me?subject=urltofile">legionslost@proton.me</a> 
+or you can  <a href="https://buymeacoffee.com/legionslost"> <img src="Media/bmc.webp"> <img src="Media/qr-code.png" width="100" height="100"></a>
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-## Disclaimer / License 
-<img src="Media/Disclaimer.png" width=620 height=620>
-<a href="mailto:legionslost@proton.me?subject=urltofile">
-  <img src="Media/proton-image.svg" alt="Send Email over UrltoFile" width=50 height=50>
-</a>
