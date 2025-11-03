@@ -1,6 +1,6 @@
 # UrlToFile README
 
-<img src="Media/LLLogo.gif" width="120" height="120"> <img src="Media/ascii-art-text.png" width="600">
+<img src="Media/LLLogo.gif" width="110" height="110"> <img src="Media/ascii-art-text.png" width="600">
 
 Right click Copy saved to a file useful if you have to create a file with alot of urls in it
 
