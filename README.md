@@ -1,6 +1,7 @@
 # UrlToFile README
 
-![](/Media/LLLogo.gif)   |  ![](/Media/ascii-art-text.png)
+<img src="Media/LLLogo.gif" width="200" height="200"> <img src="Media/ascii-art-text.png">
+
 Right click Copy saved to a file useful if you have to create a file with alot of urls in it
 
 ## Installation ##
