@@ -8,7 +8,7 @@ Right click Copy saved to a file useful if you have to create a file with alot o
 
 Download latest release and extract to a folder on your pc.
 
-Require's Windows DOT NET V4.8 Works on Windows 7 / 8 /10 / 11
+Require's Windows DOT NET V4.8 <img src="Media/logo_net.svg" width=20 height=20> Works on Windows 7 / 8 /10 / 11
 
 Open a Window's Terminal / Windows Command Prompt
 
@@ -58,4 +58,4 @@ Please make sure to update tests as appropriate.
 
 https://img.shields.io/badge/LegionLost
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT]()
