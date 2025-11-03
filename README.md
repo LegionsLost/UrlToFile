@@ -62,4 +62,4 @@ to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 ## Disclaimer / License 
-<img src="Media/Disclaimer.png" width=120 height=120>
+<img src="Media/Disclaimer.png" width=620 height=620>
